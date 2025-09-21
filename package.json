@@ -1,0 +1,14 @@
+{
+  "name": "monobot",
+  "version": "1.0.0",
+  "description": "Facebook Page AI Bot using Gemini - Monobot with memory",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.2",
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2"
+  }
+}
